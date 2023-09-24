@@ -2,7 +2,7 @@
 
 > Feed Generators are services that provide custom algorithms to users through the AT Protocol.
 
-Official (read it first): https://github.com/bluesky-social/feed-generator#overview
+Official overview(read it first): https://github.com/bluesky-social/feed-generator#overview
 
 Feed example: https://bsky.app/profile/did:plc:kvwvcn5iqfooopmyzvb4qzba/feed/whats-alf
 
