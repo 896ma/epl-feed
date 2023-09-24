@@ -61,7 +61,7 @@ def describe_feed_generator():
             'feeds': feeds
         }
     }
-    return jsonify(response)
+    return jsonify
 
 
 @app.route('/xrpc/app.bsky.feed.getFeedSkeleton', methods=['GET'])
