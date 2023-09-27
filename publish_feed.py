@@ -10,7 +10,7 @@ from datetime import datetime
 
 from atproto.xrpc_client.models import ids
 
-from atproto import Client,
+from atproto import Clien
 
 # YOUR bluesky handle
 # Ex: user.bsky.social
