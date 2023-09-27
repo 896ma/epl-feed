@@ -6,7 +6,7 @@ load_dotenv()
 # YOU MUST INSTALL ATPROTO SDK
 # pip3 install atproto
 
-from datetime import datetime
+from datetime import datetim
 
 from atproto.xrpc_client.models import ids
 
