@@ -24,7 +24,7 @@ To update your feed's display data (name, avatar, description, etc.), just updat
 
 After successfully running the script, you will notice tahta your feed  is visible from within the app, as well as share it by embedding a link in a post (similar to a quote post).
 
-### Running the Server
+### Running the Server 
 
 Install Python 3.7+, optionally create virtual environment.
 
