@@ -8,7 +8,7 @@ load_dotenv()
 
 from datetime import datetime
 
-from atproto.xrpc_client.models import ids
+from atproto.xrpc_client.models import id
 
 from atproto import  client , models
 
