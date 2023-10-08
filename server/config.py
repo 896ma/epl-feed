@@ -1,5 +1,5 @@
 import os
-from dotenv import load_dot
+from dotenv import load_d
 
 load_dotenv()
 
