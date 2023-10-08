@@ -76,7 +76,7 @@ def main():
         )
         
     ))
-    print('Item uccessfully published!')
+    print('Item successfully published!')
     print('Feed URI (put in "WHATS_ALF_URI" env var):', response.uri)
 
 
