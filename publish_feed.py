@@ -9,7 +9,7 @@ load_dotenv()
 from datetime import datetime
 from atproto.xrpc_client.models import ids
 
-from atproto import  client , model
+from atproto import  client , models
 
 # YOUR bluesky handle
 # Ex: user.bsky.social
