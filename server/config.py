@@ -10,7 +10,7 @@ if HOSTNAME is None:
     raise RuntimeError('You should set "HOSTNAME" environment variable first.')
 
 if SERVICE_DID is None:
-    SERVICE_DID = f'did:web:{HOST}'
+    SERVICE_DID = f'did:web:{HOSTN}'
 
 
 EPL_FEED_URI = os.environ.get('EPL_FEED_URI')
