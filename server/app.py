@@ -3,7 +3,7 @@ import signal
 import threading
 
 from server import config
-from server import data_strea
+from server import data_stre
 
 from flask import Flask, jsonify, request
 
