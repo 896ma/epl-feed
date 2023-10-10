@@ -5,7 +5,7 @@ import threading
 from server import config
 from server import data_stream
 
-from flask import Flask, jsonify, requ
+from flask import Flask, jsonify, reques
 
 from server.algos import algos
 from server.data_filter import operations_callback
