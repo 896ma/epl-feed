@@ -22,7 +22,7 @@ epl_key_names = [
     'newcastle united',
     'norwich city',
     'southampton',
-    'tottenham hots
+    'tottenham ho
     'watford ' ,
     'west ham united',
     'wolverhampton wanderers',
