@@ -11,7 +11,7 @@ epl_key_names = [
     'brentford',
     'brighton',
     'burnley',
-    'chelsea',
+    'chelsea'
     'crystal palace',
     'everton',
     'leeds united',
