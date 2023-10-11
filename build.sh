@@ -2,4 +2,4 @@
 
 set -o errexit  # exit on error
 
-pip install -r requirements.tx
+pip install -r requirements.t
