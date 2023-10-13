@@ -8,7 +8,7 @@ Feed example: https://bsky.app/profile/did:plc:kvwvcn5iqfooopmyzvb4qzba/feed/wha
 
 ### Getting 
 
-We've set up this simple server with SQLite to store and query data. Feel free to switch this out for whichever database you prefer.
+We've set up this simple server with SQLite to store and query data. Feel free to switch this out for whichever database you prefer
 
 Next, you will need to do two things:
 1. Implement indexing logic in `server/data_filter.py`.
