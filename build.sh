@@ -2,4 +2,4 @@
 
 set -o errexit  # exit on error
 
-pip install -r re
+pip install -r r
