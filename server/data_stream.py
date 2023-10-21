@@ -12,7 +12,7 @@ if t.TYPE_CHECKING:
 
 def _get_ops_by_type(commit: models.ComAtprotoSyncSubscribeRepos.Commit) -> dict:  # noqa: C901
     operation_by_type = {
-        'posts': {'created': [], 'deleted': []}, 
+        'posts': {'created': [], 'deleted': []},  
         'reposts': {'created': [], 'deleted': []},
         'likes': {'created': [], 'deleted': []},
         'follows': {'created': [], 'deleted': []},
