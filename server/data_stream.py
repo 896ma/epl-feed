@@ -15,7 +15,7 @@ def _get_ops_by_type(commit: models.ComAtprotoSyncSubscribeRepos.Commit) -> dict
         'posts': {'created': [], 'deleted': []},  
         'reposts': {'created': [], 'deleted': []},
         'likes': {'created': [], 'deleted': []}, 
-        'follows': {'created': [], 'deleted': []},
+        'follows': {'created': [], 'deleted': []}, 
     }
 
     car = CAR.from_bytes(commit.blocks)
