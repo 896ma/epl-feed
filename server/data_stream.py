@@ -14,7 +14,7 @@ def _get_ops_by_type(commit: models.ComAtprotoSyncSubscribeRepos.Commit) -> dict
     operation_by_type = {
         'posts': {'created': [], 'deleted': []},  
         'reposts': {'created': [], 'deleted': []},
-        'likes': {'created': [], 'deleted': []},
+        'likes': {'created': [], 'deleted': []}, 
         'follows': {'created': [], 'deleted': []},
     }
 
@@ -24,7 +24,7 @@ def _get_ops_by_type(commit: models.ComAtprotoSyncSubscribeRepos.Commit) -> dict
 
         if op.action == 'update':
             # not supported yet
-            continue
+            continue 
 
         if op.action == 'create':
             if not op.cid:
