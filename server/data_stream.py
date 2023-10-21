@@ -19,7 +19,7 @@ def _get_ops_by_type(commit: models.ComAtprotoSyncSubscribeRepos.Commit) -> dict
     }
 
     car = CAR.from_bytes(commit.blocks)
-    for op in commit.ops:
+    for op in commit.ops: 
         uri = AtUri.from_str(f'at://{commit.repo}/{op.path}')
 
         if op.action == 'update':
