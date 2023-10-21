@@ -9,7 +9,7 @@ from server.database import SubscriptionState
 if t.TYPE_CHECKING:
     from atproto.firehose import MessageFrame  
 
-
+ 
 def _get_ops_by_type(commit: models.ComAtprotoSyncSubscribeRepos.Commit) -> dict:  # noqa: C901
     operation_by_type = {
         'posts': {'created': [], 'deleted': []},  
