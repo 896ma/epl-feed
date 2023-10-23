@@ -11,7 +11,7 @@ if HOSTNAME is None:
 
 if SERVICE_DID is None:
     SERVICE_DID = f'did:web:{HOSTNAME}' 
-
+ 
 
 EPL_FEED_URI = os.environ.get('EPL_FEED_URI')
 if EPL_FEED_URI is None:
