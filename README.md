@@ -22,7 +22,7 @@ To publish your feed, go to the script at `publish_feed.py` and fill in the vari
 
 To update your feed's display data (name, avatar, description, etc.), just update the relevant variables and re-run the script.
 
-After successfully running the script, you will notice tahta your feed  is visible from within the app, as well as share it by embedding a link in a post (similar to a quote post).
+After successfully running the script, you will notice taht your feed  is visible from within the app, as well as share it by embedding a link in a post (similar to a quote post).
 
 ### Running the Server 
 
