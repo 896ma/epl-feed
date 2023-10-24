@@ -23,7 +23,7 @@ PASSWORD: str = os.environ.get('PASSWORD', None)
 # Ex: feed.bsky.dev
 HOSTNAME: str = os.environ.get('EPL_HOSTNAME', None)
 
-# A short name for the record that will show in urls
+# A short name for the record that will show in urls(Unir
 # Lowercase with no spaces.
 # Ex: whats-hot
 RECORD_NAME: str = 'epl-buzz'   
