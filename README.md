@@ -1,6 +1,6 @@
 ## ATProto Feed Generator powered by [The AT Protocol SDK for Python](https://github.com/MarshalX/atproto)
 
-> Feed Generators are   that provide custom algorithms to users through the AT Protocol.
+> Feed Generators are s  that provide custom algorithms to users through the AT Protocol.
 
 Official overview(read it first): https://github.com/bluesky-social/feed-generator#overview
 
